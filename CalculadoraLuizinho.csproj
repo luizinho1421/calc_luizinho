@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>extracted\calc.ico</ApplicationIcon>
+    <AssemblyName>calc_luizinho</AssemblyName>
+    <RootNamespace>CalculadoraLuizinho</RootNamespace>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CalculadoraLuizinho.cs" />
+  </ItemGroup>
+</Project>
