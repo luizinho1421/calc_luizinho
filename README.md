@@ -33,10 +33,26 @@ Uma aplicação desktop completa desenvolvida em C# (.NET / WinForms) inspirada 
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
+
 - Visual Studio 2019/2022 ou o .NET SDK instalado no seu sistema.
 - Sistema Operacional Windows 10/11.
 
 ### Passos
+
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/calculadora-windows-custom.git](https://github.com/seu-usuario/calculadora-windows-custom.git)
+   git clone https://github.com/seu-usuario/calculadora-windows-custom.git
+   ```
+2. Abra a solução/projeto no Visual Studio.
+3. Compile o projeto pressionando `Ctrl + Shift + B` (ou execute `build.bat`).
+4. Execute pressionando `F5` ou execute diretamente o binário compilado (`calc_luizinho.exe`).
+
+---
+
+## 📜 Licença e Termos de Uso
+
+Este projeto foi desenvolvido de forma independente para fins educacionais, de estudo de interface e portfólio de software.
+
+- O código-fonte foi escrito do zero em C# e WinForms.
+- Não há utilização de código proprietário ou binários descompilados da Microsoft.
+- A aplicação é distribuída sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

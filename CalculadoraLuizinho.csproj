@@ -9,6 +9,8 @@
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CalculadoraLuizinho.cs" />
+    <Compile Include="src\MainForm.cs" />
+    <Compile Include="src\CalculationRecord.cs" />
+    <Compile Include="src\UnitDef.cs" />
   </ItemGroup>
 </Project>
